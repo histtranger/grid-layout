@@ -18,6 +18,10 @@ body {
   margin: 0;
 }
 
-li {
-  list-style-type: none;
+figcaption {
+  display: none;
+}
+
+h2 {
+  display: block;
 }
