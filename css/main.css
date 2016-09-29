@@ -19,7 +19,7 @@ body {
 }
 
 .img-flex {
-  display: block;
+  display: inline-block;
   width: 100%;
 }
 
@@ -27,6 +27,17 @@ figcaption {
   display: none;
 }
 
+/*
 h2 {
   display: block;
+  margin-left: 1.5em;
 }
+
+dl {
+  margin-left: 2em;
+}
+
+figure {
+  margin-bottom: -0.1em;
+}
+*/
