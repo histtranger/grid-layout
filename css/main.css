@@ -56,19 +56,12 @@ h2 {
   .right {
     float: right;
   }
-}
 
-/*
-h2 {
-  display: block;
-  margin-left: 1.5em;
-}
+  .l-1 {
+    display: block;
+  }
 
-dl {
-  margin-left: 2em;
+  .s-1-2 {
+    float: none;
+  }
 }
-
-figure {
-  margin-bottom: -0.1em;
-}
-*/
