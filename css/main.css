@@ -33,7 +33,7 @@ figcaption {
 }
 
 .gutter {
-  margin-left: 15%;
+  margin-left: 2.5em;
 }
 
 h2 {
@@ -42,12 +42,19 @@ h2 {
 
 @media only screen and (min-width: 25em) {
 
-  .gutter {
+  .sgutter {
     margin-left: 3em;
   }
 
   .s-1-2 {
     float: left;
+  }
+}
+
+@media only screen and (min-width: 60em) {
+
+  .right {
+    float: right;
   }
 }
 
